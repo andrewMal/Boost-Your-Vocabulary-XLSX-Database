@@ -14,3 +14,4 @@ Run
 
 2.The First time when you run the programm you have to choose your database(.xlsx file). Choose the file vocDatabase.xlsx. After the first time when you run it , will be created a .ser file which remember the path of your xlsx file.
 
+You can modify xlsx file from app or from 
