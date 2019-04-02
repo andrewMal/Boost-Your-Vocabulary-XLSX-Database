@@ -1,5 +1,5 @@
 # Boost-Your-Vocabulary-XLSX-Database
-Boost your vocabulary is easy to use application which helps you to train your own choices of words while you can update your database anytime you want.
+Boost your vocabulary is an easy to use application which helps you to train your own choices of words while you can update your database anytime you want.
 
 Requirements
 
@@ -12,7 +12,7 @@ Run
 
 1.Run the file BoostYourVocDatabaseXLSX v01.jar.
 
-2.The First time when you run the program you have to choose your database(.xlsx file). Choose the file vocDatabase.xlsx. After the first time when you run it , will be created a .ser file which remember the path of your xlsx file.
+2.The First time you run the program you have to choose your database(.xlsx file). Choose the file vocDatabase.xlsx. After the first time when you run it ,a .ser file will be created which remembers the path of your xlsx file.
 
 You can modify xlsx file from app or from every XLSX editor.
 
