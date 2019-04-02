@@ -7,3 +7,10 @@ Requirements
 https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
 2.XLSX File Editor (for example: Microsoft EXCEL,Libre Office or anything else).
+
+Run
+
+1.Run the file BoostYourVocDatabaseXLSX v01.jar.
+
+2.The First time when you run the programm you have to choose your database(.xlsx file). Choose the file vocDatabase.xlsx. After the first time when you run it , will be created the a .ser file which remember the path of your xlsx file.
+
